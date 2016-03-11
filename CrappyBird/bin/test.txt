@@ -1,1 +1,3 @@
-awdawd
+Download the CrappyBird.jar and run it.
+
+To verify that I wrote this app, use a program like JD-GUI to investigate the source :)
